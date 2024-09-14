@@ -1,0 +1,22 @@
+
+* { 
+    margin: 0 ;
+    padding: 0; 
+    border: border-box; 
+} 
+header{ 
+    background-color:rgb(68, 227, 68);
+    display: flex ; 
+    justify-content: center ; 
+    align-items : center; 
+}
+.video-container { 
+    display: flex ; 
+    justify-content: space-evenly ; 
+    
+    flex-wrap: wrap; 
+    background-color:#B3C8CF;
+    height:1000px ; 
+
+}
+
